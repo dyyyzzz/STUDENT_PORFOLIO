@@ -76,7 +76,8 @@ section {
 }
 
 .kolom .description {
-    font-size: 20px;
+    float: right;
+    font-size: 50px;
     font-weight: bold;
     font-family: 'comic sans-ms';
     color: darkslategray;
