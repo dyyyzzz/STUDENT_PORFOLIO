@@ -66,12 +66,12 @@ section {
     margin: auto;
     display: flex;
     margin-bottom: 50px;
+    float: right;
 }
 
 .kolom {
     margin-top: 20px;
     margin-bottom: 50px;
-    float: right;
 }
 
 .kolom .description {
