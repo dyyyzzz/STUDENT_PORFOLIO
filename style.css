@@ -86,10 +86,9 @@ section {
 }
 
 h2 {
-    float: right;
     font-family: 'comic sans-ms';
-    font-weight: 600;
-    font-size: 50px;
+    font-weight: 800;
+    font-size: 45px;
     margin-bottom: 20px;
     color: darkslategray;
     width: 100%;
