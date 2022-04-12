@@ -4,14 +4,12 @@
     padding: 0px;
 }
 
-.banner {
+body {
     width: 100%;
     height: 100vh;
     background-image: linear-gradient(rgba(0,0,0,0.75),rgb(0,0,0,0.75)),url(rm296-ning-27.jpg);
     background-size: cover;
     background-position: center;
-}
-body {
     margin: 0px;
     padding: 0px;
     font-family: 'Open Sans',sans-serif;
